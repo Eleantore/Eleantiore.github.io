@@ -1,14 +1,14 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+# Site settings
+title: BY Blog                    # 你的博客网站标题
+SEOTitle: 王广睿的博客 | BY Blog		# SEO 标题
+description: "Hey，大家好"	   	   # 随便说点，描述一下
+# SNS settings      
+github_username: Eleantore     # 你的github账号
+jianshu_username: e71990ada2fd  # 你的简书ID。
 
+# Build settings
+# paginate: 10              # 一页你准备放几篇文章
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
